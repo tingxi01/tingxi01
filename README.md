@@ -16,6 +16,7 @@
 I'm an aspiring AI engineer passionate about artificial intelligence, machine learning, and software development.
 
 I enjoy turning ideas into practical projects, exploring new technologies, and combining creativity with code.
+
 ---
 
 ### ✧ Tech Stack
