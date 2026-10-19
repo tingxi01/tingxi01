@@ -13,18 +13,9 @@
 
 ### ୨୧ About Me
 
-I'm an aspiring AI and technology professional with an interest in
-artificial intelligence, machine learning, and software development.
+I'm an aspiring AI engineer passionate about artificial intelligence, machine learning, and software development.
 
-I enjoy exploring how technology can solve real-world problems,
-turning ideas into practical projects, and continuously learning
-new things along the way.
-
-- Currently building my AI engineering portfolio
-- Interested in AI/ML, data science, and full-stack development
-- Exploring retrieval-augmented generation (RAG) and local LLMs
-- Enjoy combining technical problem-solving with creative design
-
+I enjoy turning ideas into practical projects, exploring new technologies, and combining creativity with code.
 ---
 
 ### ✧ Tech Stack
