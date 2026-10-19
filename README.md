@@ -13,10 +13,10 @@ Building little things with Python, AI & curiosity ✨
 
 ### ୨୧ About Me
 
-- ❀ Exploring AI, machine learning & data science
-- ❀ Enjoy building practical projects with Python
-- ❀ Interested in AI engineering & creative technology
-- ❀ Currently working on my AI portfolio
+❀ Exploring AI, machine learning & data science
+❀ Enjoy building practical projects with Python
+❀ Interested in AI engineering & creative technology
+❀ Currently working on my AI portfolio
 
 ### ♡ Tech Stack
 
